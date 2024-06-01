@@ -26,3 +26,5 @@ To run the model on the Coffee dataset:
 ```sh
 python RandomNet.py --dataset Coffee
 ```
+### Cite this work
+Coming soon
