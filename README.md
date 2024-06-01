@@ -1,4 +1,4 @@
-# RandomNet
+# RandomNet: Clustering Time Series Using Untrained Deep Neural Networks
 Fast and accurate time series clustering method.
 
 Our paper has been accepted by DMKD!
