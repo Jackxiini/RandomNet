@@ -25,7 +25,7 @@ We use the UCR Time Series Classification Archive. You can download the full UCR
 To run the model on the Coffee dataset:
 ```sh
 python RandomNet.py --dataset Coffee
-
+```
 Output:
 --------------------
 Working on dataset:  Coffee  ...
