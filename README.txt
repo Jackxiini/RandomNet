@@ -1,12 +1,28 @@
-The code uses python 3.8, numpy, TensorFlow 2.1, pymetis, and scikit-learn (under Linux system).
+# RandomNet
+Fast and accurate time series clustering method.
 
-To install the packages, the user can use:
-pip install -r requirements.txt
+Our paper has been accepted by DMKD!
 
-Please extract data.zip before running our code
+## Prerequisites
 
-To run our model:
---------------------
+- Python 3.8
+- NumPy
+- TensorFlow 2.1
+- PyMetis
+- Scikit-learn
+- Linux system
+
+## Installation
+
+1. Install the required packages:
+    ```sh
+    pip install -r requirements.txt
+    ```
+
+## Running the Model
+
+To run the model on the Coffee dataset:
+```sh
 python RandomNet.py --dataset Coffee
 
 Output:
