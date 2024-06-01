@@ -26,9 +26,3 @@ To run the model on the Coffee dataset:
 ```sh
 python RandomNet.py --dataset Coffee
 ```
-Output:
---------------------
-Working on dataset:  Coffee  ...
-dataset: Coffee
-Rand Index: 1.000000
-time_cost: 29.610617
