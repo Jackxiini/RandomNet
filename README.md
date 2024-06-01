@@ -14,10 +14,10 @@ RandomNet is a highly accurate and efficient time series clustering method. It h
 - Linux system
 
 ### Installation
-1. Install the required packages:
-    ```sh
-    pip install -r requirements.txt
-    ```
+Install the required packages:
+```sh
+pip install -r requirements.txt
+```
 ### Dataset
 We use the UCR Time Series Classification Archive. You can download the full UCR datasets from [[here]](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/).
 
