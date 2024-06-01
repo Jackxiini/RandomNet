@@ -1,5 +1,5 @@
 # RandomNet: Clustering Time Series Using Untrained Deep Neural Networks
-RandomNet is a highly accurate and efficient time series clustering method. It has linear time complexity w.r.t the number of instances and the time series length. 
+RandomNet is a highly accurate and efficient time series clustering method. It has linear time complexity w.r.t the number of instances and the time series length. It not only achieves the SOTA performance but also performs well across all tested time series data types (device, ECG, EOG, EPG, image, motion, sensor, spectro, etc.).
 
 ![Overall Architecture](overview.png)
 
