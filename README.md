@@ -27,4 +27,14 @@ To run the model on the Coffee dataset:
 python RandomNet.py --dataset Coffee
 ```
 ### Cite this work
-Coming soon
+```
+@article{Li2024,
+  title={Randomnet: clustering time series using untrained deep neural networks},
+  author={Xiaosheng Li and Wenjie Xi and Jessica Lin},
+  journal={Data Mining and Knowledge Discovery},
+  year={2024},
+  publisher={Springer},
+  doi={10.1007/s10618-024-01048-5},
+  url={https://link.springer.com/article/10.1007/s10618-024-01048-5}
+}
+```
