@@ -28,7 +28,7 @@ python RandomNet.py --dataset Coffee
 ```
 ### Cite this work
 ```
-@article{Li2024,
+@article{randomnet,
   title={Randomnet: clustering time series using untrained deep neural networks},
   author={Xiaosheng Li and Wenjie Xi and Jessica Lin},
   journal={Data Mining and Knowledge Discovery},
