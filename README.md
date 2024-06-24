@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ### Dataset
 We use the UCR Time Series Classification Archive. You can download the full UCR datasets from [[here]](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/).
 
-### Running the Model
+### Run the Model
 To run the model on the Coffee dataset:
 ```sh
 python RandomNet.py --dataset Coffee
