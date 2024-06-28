@@ -30,11 +30,10 @@ python RandomNet.py --dataset Coffee
 ```
 @article{randomnet,
   title={Randomnet: clustering time series using untrained deep neural networks},
-  author={Xiaosheng Li and Wenjie Xi and Jessica Lin},
+  author={Li, Xiaosheng and Xi, Wenjie and Lin, Jessica},
   journal={Data Mining and Knowledge Discovery},
+  pages={1--30},
   year={2024},
-  publisher={Springer},
-  doi={10.1007/s10618-024-01048-5},
-  url={https://link.springer.com/article/10.1007/s10618-024-01048-5}
+  publisher={Springer}
 }
 ```
