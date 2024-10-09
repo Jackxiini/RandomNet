@@ -3,7 +3,7 @@ RandomNet is a highly accurate and efficient time series clustering method. It h
 
 ![Overall Architecture](overview.png)
 
-### This [[paper]](https://rdcu.be/dLCXS) is accepted by Data Mining and Knowledge Discovery (DMKD)!
+### This [[paper]](https://rdcu.be/dLCXS) is accepted by Data Mining and Knowledge Discovery!
 
 ### Prerequisites
 - Python 3.8
